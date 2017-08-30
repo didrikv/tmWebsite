@@ -1,0 +1,39 @@
+html {
+	font-size: 16px;
+}
+
+* {
+	font-size: 16px;
+}
+
+.header{
+	font-family: "Helvetica";
+	font-size: 2rem;
+	text-align: center;
+	background: #515A5A;
+	color: whitesmoke;
+	padding: 20px 0;
+
+}
+
+.header p{
+	font-size: 0.8rem
+}
+
+.header h1{
+	font-size: 3rem;
+}
+
+.header p a{
+	color: lightblue;
+}
+
+.navbar{
+	display: flex;
+	justify-content: center;
+	outline: none;
+}
+
+
+
+

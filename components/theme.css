@@ -1,0 +1,51 @@
+.default {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: black; 
+}
+.default *{
+	font-family: Arial, Helvetica, sans-serif;
+	outline: none;
+}
+
+.buttonContainer {
+	composes: default;
+	background-color: #f3f3f3;
+	border: 1px solid #BBB;
+	margin: 5px;
+}
+
+.button{
+	composes: default;
+	padding: 10px;
+	color: #666;
+	background: none;
+}
+ 
+.buttonChecked{
+	composes: button;
+	color: white;
+	background-color: #666369;
+}
+
+.chart{
+	composes: default;
+	padding: 20px;
+}
+
+.map{
+	composes: chart;
+	stroke: grey;
+	stroke-width: 0.4px;
+}
+
+.map:hover{
+	stroke: black;
+	stroke-width: 1px;
+	fill-opacity: 0.5;
+}
+
+
+
+
+

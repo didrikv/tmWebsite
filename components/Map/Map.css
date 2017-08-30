@@ -1,0 +1,43 @@
+.static {
+	stroke: grey;
+	stroke-width: 0.4px;
+	fill: grey;
+	transition: 300ms linear;
+}
+	
+.active {
+	composes: static;
+}
+
+.active:hover {
+	stroke: black;
+	stroke-width: 1px;
+	fill-opacity: 0.5
+}
+
+.map{
+	padding: 0px;
+	max-height: 700px;
+	display: block;
+}
+
+.text{
+	font-size: 10px;
+}
+
+.in{
+	opacity: 1;
+	transform: translateZ(0);
+}
+
+.out{
+	opacity: 0;
+	transition: 300;
+	transform: translateZ(0);
+}
+
+
+
+
+
+

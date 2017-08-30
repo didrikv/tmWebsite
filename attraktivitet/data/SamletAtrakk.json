@@ -1,0 +1,50 @@
+{
+    "p1": {
+        "title": "Hva er attraktivitet?",
+        "text": "Et attraktivt sted har sterkere befolkningsvekst enn forventet ut fra sine forutsetninger. Forutsetningene for vekst varierer sterkt fra sted til sted. Noen steder har gode forutsetninger for vekst, kanskje gjennom en gunstig lokalisering eller en fordelaktig næringsstruktur. Andre har vanskeligere vekstvilkår, fordi de er små eller basert på næringer som har nedgang.  At et sted er attraktivt trenger derfor ikke bety at stedet vokser spesielt raskt, men at utviklingen er bedre enn forventet."
+    },
+    "p2": {
+        "title":"Hvorfor er attraktivitet interessant?",
+        "text": "De som driver med lokal og regional utvikling i kommuner, regioner og fylker i Norge forsøker å påvirke utviklingen på sine steder. De aller fleste stedene ønsker å vokse. De som lykkes, har bidratt til at veksten blir sterkere enn den ville ha vært uten innsatsen. Men hva er forventet vekst på stedet? Hvis vi ikke vet hva som er normal vekst på et sted, kan vi ikke vite om stedet egentlig har prestert godt eller dårlig. Gjennom vår attraktivitetsmodell kan vi måle hva som er normal vekst på et sted. Da finner vi ut om stedet har vært attraktivt eller ikke. For alle som driver med regional utvikling og ønsker å stimulere veksten, er vår definisjon av attraktivitet skreddersydd for å være et mål for utviklingsarbeidet."
+    },
+    "p3": {
+        "title": "De mest attraktive kommunene",
+        "text": "I de siste ti årene er det kommunene Rennesøy og Hemsedal som har vært de mest attraktive kommunene i landet. Rennesøy er samtidig den kommunen i landet med høyest befolkningsvekst. Hemsedal har hatt lavere befolkningsvekst enn Ullensaker, Os og Våler (Østfold) som også er på listen over de ti mest attraktive. Hemsedal har lavere forventet vekst enn disse tre og har derfor vært mer attraktiv."
+    },
+    "p4": {
+        "title": "De mest attraktive regionene",
+        "text": "I de siste ti årene er det regionene Hitra/Frøya og Bjørnefjorden som har vært de mest attraktive regionene."
+    },
+    "p5": {
+        "title": "De mest attraktive fylkene",
+        "text" : "I de siste ti årene er det Aust-Agder og Østfold som har hatt høyest attraktivitet. Og så videre…"
+    },
+    "p6": {
+        "title": "Attraktivitet i ulike perioder",
+        "text": "Stedenes attraktivitet varieres fra år til år. Vi har så langt vist resultater for kommuner, regioner og fylker for de ti siste årene. Her kan de se hvilke steder som har vært mest attraktive i forskjellige tidsperioder. For kommuner er det også et filter som tar bort de minste kommunene. For små kommuner vil det være store tilfeldige utslag, særlig for korte perioder."
+    },
+    "p7": {
+        "title": "Attraktivitet – bostedsattraktivitet og næringsattraktivitet",
+        "text": "Det er to måter et sted kan øke befolkningsveksten på. Den ene måten er å stimulere til sterkere arbeidsplassvekst. Hvis en lykkes med å øke veksten i antall arbeidsplasser, vil det føre til bedre nettoflytting og høyere befolkningsvekst. Den andre måten er å gjøre stedet mer attraktivt å bo i. Det vil gjøre at flere flytter til stedet og at færre flytter ut. Vi kan da splitte attraktiviteten i to deler: Næringsattraktivitet og bostedsattraktivitet."
+    },
+    "s1": {
+        "title": "Strukturelle betingelser for vekst",
+        "text": "Steder har varierende strukturelle betingelser for vekst. Slike strukturelle faktorer er stedets befolkningsstørrelse, stedets lokalisering i forhold til større arbeidsmarkeder og stedets bransjestruktur. Samtidig blir alle steder påvirket av at den økonomiske veksten svinger fra år til år og at innvandringen til Norge kan endre seg betydelig fra år til år."
+    },
+    "s2": {
+        "title": "Forventet Befolknigsvekst",
+        "text": "Gjennom vår Attraktivitetsmodell kan vi beregne forventet befolkningsvekst for kommuner, regioner og fylker. I kartet til venstre ser vi hvordan den forventede veksten varierer mellom kommunen i Norge i de siste ti årene."
+    },
+    "s3": {
+        "title": "Faktisk Befolkningsvekst",
+        "text": "Det midterste kartet viser hvordan den faktiske befolkningsveksten har vært. Den regionale utviklingen i Norge er for en stor del et resultat av at de strukturelle betingelsene for vekst varierer  fra sted til sted. Men ikke alle stedene følger sin forventede utvikling."
+    },
+    "s4": {
+        "title": "Attraktivitet",
+        "text": "Det siste kartet viser variasjonene i attraktivitet. Noen kommuner har langt sterkere vekst enn forventet."
+    },
+    "s5": {
+        "title": "Velg Selv",
+        "text": "bla bal bla"
+    }
+}

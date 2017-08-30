@@ -1,0 +1,105 @@
+[
+	{
+		"title": "Kunstnere",
+		"text": "Oversikten vi her presenterer tar utgangspunkt i bostedsadresse for kunstnere registrert i de ti største kunstnerorganisasjonene i landet. Vi presenterer også oversikt over tildelinger fra Statens kunstnerstipend (SKS). Dette kan være en indikator på den kunstneriske kvaliteten til kunstnerne som er bosatt i kommunen.",
+		"variables": [
+			"Kunstnertetthet",
+			"Kunstnermangfold",
+			"SKS tildelinger"
+		]
+	},
+	{
+		"title": "Kulturarbeidere",
+		"text": "Sysselsettingstall for kulturyrker gir et godt bilde av kulturlivet i kommunen. Rangeringen i denne kategorien har mest til felles med den totale rangeringen i kulturindeksen. Tallene i denne oversikten er hentet fra SSBs sysselsettingsstatistikk. Oversikten inkluderer både ansatte og selvstendige næringsdrivende.",
+		"variables": [
+			"Kulturformidling",
+			"Kunstnerisk Produksjon",
+			"Media"
+		]
+	},
+	{
+		"title": "Museum",
+		"text": "Vi presenterer her kommunale tildelinger til museer samt totalt besøk og betalende besøk for alle museumsavdelinger som rapporterer tall inn til Norsk kulturråd. Dette inkluderer også museer som får tilskudd fra andre departementer enn Kulturdepartementet.",
+		"variables": [
+			"Kommunale Midler",
+			"Total Besøk",
+			"Betalende Besøk"
+		]
+	},
+	{
+		"title": "Konserter",
+		"text": "Kategorien konserter tar utgangspunkt i konserttall fra de største billettselskapene i Norge. På grunn av omlegging av datasystem i TONO, fikk vi i år dessverre ikke tilgang derfra, og har valgt å benytte datamateriale fra billettselskaper i kategorien «konserter». Totalt inneholder datasettet i overkant av 17 000 arrangementer. Billettselskap-tallene fanger opp den mest profesjonaliserte delen av konsertvirksomheten i Norge, og det vil dermed være flere arrangement som ikke er inkludert i denne oversikten.",
+		"variables": [
+			"TONO Arrangemanger",
+			"TONO Avregning",
+			"Billettselskap Arrangemanger",
+			"Billettselskap Omsettning"
+		]
+	},
+	{
+		"title": "Kino",
+		"text": "Kino er det kulturtilbudet som den størst andelen av befolkningen benytter seg av. I følge SSBs kulturbarometer var 67 % av alle nordmenn på kino i 2012. I kinokategorien presenterer vi tall fra bransjeorganisasjonen Film og Kino.",
+		"variables": [
+			"Filmfremvisninger",
+			"Kinobesøk",
+			"Mangfold filmframvisniger",
+			"Mangfold kinobesøk"
+		]
+	},
+	{
+		"title": "Bibliotek",
+		"text": "Enger-utvalget beskrev bibliotek som en del av den kulturelle grunnmuren. Mange steder er biblioteket det kulturelle senteret i kommunen og fungerer som en viktig møteplass. Det finnes en rekke gode data på bibliotekområdet. Skal man imidlertid sammenligne data på tvers av kommunestørrelse, er det få indikatorer som er gode. Vi har derfor valgt å begrense oss til utlån, besøk, deltakere på arrangement og aktive voksne lånere. Data er hentet fra KOSTRA og Folkebibliotekstatistikken til Nasjonalbiblioteket.",
+		"variables": [
+			"Utlån",
+			"Besøk",
+			"Voksne aktive lånere"
+		]
+	},
+	{
+		"title": "Scenekunst",
+		"text": "Opplysningene om teater- og operaforestillinger samt publikum er hentet fra medlemsteatrene i Norsk Teater- og Orkesterforening (NTO). Opplysningene om danseforestillinger er hentet fra Danseinformasjonen.no. Private teatre og frie turnerende scenekunstgrupper er ikke inkludert i oversikten, men flere av disse forestillingene er inkludert i oversikten over DKS-forestillinger.",
+		"variables":[
+			"Teater Forestillinger",
+			"Teater Publikum",
+			"Dans Forestillinger"
+		]
+	},
+	{
+		"title": "Kulturskole",
+		"text": "Kulturskolen og Den kulturelle skolesekken (DKS) er de viktigste offentlige tiltak for kulturtilbud til barn og unge. Selv om disse begge retter seg mot barn, har vi i år valgt å presentere dem hver for seg.",
+		"variables": [
+			"Timer",
+			"Mangfold Timer",
+			"Elever"
+		]
+	},
+	{
+		"title": "DKS",
+		"text": "Kulturskolen og Den kulturelle skolesekken (DKS) er de viktigste offentlige tiltak for kulturtilbud til barn og unge. Selv om disse begge retter seg mot barn, har vi i år valgt å presentere dem hver for seg.",
+		"variables": [
+			"Publikum",
+			"Mangfold Publikum"
+		]
+	},
+	{
+		"title": "Sentrale tildelinger",
+		"text": "Støtte til kunst og kultur forteller oss noe om aktiviteten i de kommunene som mottar støtte. Vi har her valgt tre støtteordninger med ulikt nedslagsfelt: Frifond, tildelinger fra Riksantikvaren og Norsk kulturminnefond, samt tildelinger fra Norsk kulturråd og tildelinger over statsbudsjettet til stedbunden aktivitet.",
+		"variables": [
+			"Frifond",
+			"Riksantikvar og Kulturminnefond",
+			"Statsbudsjett og Kulturråd"
+		]
+	},
+	{
+		"title": "Frivillighet",
+		"text": "Frivillighet er svært viktig for det lokale kulturlivet. Her presenterer vi aktivitetstall basert på mva.-refusjonsordningen for frivillige organisasjoner, samt medlemstall for tre kulturaktiviteter med et stort samlet medlemstall i svært mange kommuner: Kor, korps og husflidslag Historielag og deltakere på voksenopplæringskurs relatert til kultur er også inkludert i år.",
+		"variables": [
+			"Historielag",
+			"Husflidlag",
+			"Kor",
+			"Korps",
+			"MVA Refusjon",
+			"Voksenopplæring"
+		]
+	}
+]

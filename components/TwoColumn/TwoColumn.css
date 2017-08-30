@@ -1,0 +1,42 @@
+.section{
+	font-size: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	flex-grow: 1;
+	font-family: "Georgia, serif";
+	transition: 1s;
+	color: #555;
+}
+
+
+.header{
+	font-size: 2em;
+	text-align: left;
+	max-width: 50rem;
+	margin: 0 auto;
+	margin-bottom: 20px;
+
+}
+
+.paragraph{
+	font-size: 1em;
+	max-width: 50rem;
+	margin: 0.5em auto;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+
+.active{
+	composes: section;
+	opacity: 1;
+}
+
+.passive{
+	composes: section;
+	opacity: 0.2;
+}

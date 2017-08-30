@@ -1,0 +1,47 @@
+{
+    "p1": {
+        "title": "Næringsattraktivitet",
+        "text": [
+            "Et sted som er attraktivt for næringsliv har høyere vekst enn forventet. Som vekstmål bruker vi vekst i antall arbeidsplasser. Et alternativ ville være å bruke vekst i verdiskaping. Men det er gjennom arbeidsplassveksten at næringslivet kan gi bidrag til innflytting og befolkningsvekst. Derfor fokuserer vi på antall arbeidsplasser i næringslivet i attraktivitetsmodellen.",
+            "Hva er forventet vekst i næringslivet på et sted? Vi beregner forventet vekst ut fra tre faktorer. For det første vil veksten være påvirket av om det er vekst  i næringslivet i Norge. I noen perioder er det høykonjunktur og da vokser næringslivet på de fleste steder. I andre perioder er det nedgangstider og de fleste steder får da nedgang.",
+            "Bransjestrukturen på stedet vil har direkte betydning for veksten. Steder som har de fleste arbeidsplassene i næringer som er i vekst vil ha en forventet vekst. Andre steder med mange arbeidsplasser i næringer som har nedgang er forventet å få nedgang i antall arbeidsplasser i næringslivet.",
+            "Den tredje faktoren som har signifikant betydning for veksten i næringslivet er befolkningsutviklingen på stedet. Dersom befolkningen vokser med enn gjennomsnittet, vil det føre til sterkere vekst i kommunesektoren, bygg og anlegg, handel, servering og lokale næringer."
+        ]
+    },
+    "p2": {
+        "title": "Forventet vekst i næringslivet",
+        "text" : "I kartene ser vi hvordan forskjeller i bransjestruktur og befolkningsvekst har slått ut i forventet vekst i næringslivet de siste ti årene."
+    },
+    "k1": {
+        "title": "Bransjeeffekt",
+        "text": "Vi kan se at det har vært høyere forventet vekst i regionen rundt de største byene, Oslo, Bergen, Trondheim, Stavanger, Kristiansand, Tromsø og Ålesund. Næringslivet i disse største byregionene har en mer gunstig bransjestruktur, ved at det næringslivet er konsentrert til bransjer med høy vekst. Samtidig gir høy befolkningsvekst vekstimpulser til lokalt basert næringsliv."
+    },
+    "k2": {
+        "title": "Befolkningseffekt",
+        "text": "????"
+    },
+    "k3":  {
+        "title": "Næringsstruktur",
+        "text": "????"
+    },
+    "k4": {
+        "title": "Strukturelle betingelser varierer over tid",
+        "text": "Oljekrisen fikk ganske stor betydning for …"
+    },
+    "g1": {
+        "title": "Næringsattraktive kommuner",
+        "text": "df s f dfsdfsdf sdf sdf sdflkjgoe"
+    },
+    "g2": {
+        "title": "Næringsattraktive regioner",
+        "text": "df s f dfsdfsdf sdf sdf sdflkjgoe"
+    },
+    "g3": {
+        "title": "Næringsattraktive fylker",
+        "text": "df s f dfsdfsdf sdf sdf sdflkjgoe"
+    },
+    "g4": {
+        "title": "Næringsattraktivitet i ulike perioder",
+        "text": "df s f dfsdfsdf sdf sdf sdflkjgoe"
+    }
+}
